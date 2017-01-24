@@ -3,8 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastbest/broadcastbest.iml" filepath="$PROJECT_DIR$/broadcastbest/broadcastbest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databasetest/databasetest.iml" filepath="$PROJECT_DIR$/databasetest/databasetest.iml" />
       <module fileurl="file://$PROJECT_DIR$/eastnews/eastnews.iml" filepath="$PROJECT_DIR$/eastnews/eastnews.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstlearing.iml" filepath="$PROJECT_DIR$/firstlearing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providertest/providertest.iml" filepath="$PROJECT_DIR$/providertest/providertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruingpermissiontest/ruingpermissiontest.iml" filepath="$PROJECT_DIR$/ruingpermissiontest/ruingpermissiontest.iml" />
     </modules>
   </component>
 </project>
