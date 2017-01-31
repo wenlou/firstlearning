@@ -11,7 +11,12 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/broadcastbest" />
             <option value="$PROJECT_DIR$/databasetest" />
+            <option value="$PROJECT_DIR$/downfileserver" />
             <option value="$PROJECT_DIR$/eastnews" />
+            <option value="$PROJECT_DIR$/httplearing" />
+            <option value="$PROJECT_DIR$/lbstest" />
+            <option value="$PROJECT_DIR$/mdbest" />
+            <option value="$PROJECT_DIR$/notificationtest" />
             <option value="$PROJECT_DIR$/providertest" />
             <option value="$PROJECT_DIR$/ruingpermissiontest" />
           </set>

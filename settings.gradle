@@ -1,1 +1,1 @@
-include ':app', ':eastnews', ':broadcastbest', ':ruingpermissiontest', ':databasetest', ':providertest'
+include ':app', ':eastnews', ':broadcastbest', ':ruingpermissiontest', ':databasetest', ':providertest', ':notificationtest', ':httplearing', ':downfileserver', ':lbstest', ':mdbest'

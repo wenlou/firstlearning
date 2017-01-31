@@ -114,18 +114,18 @@ public class Notification extends AppCompatActivity {
        }
     }
 //动态获取权限
-    @Override
-    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
-        switch (requestCode){
-            case 1:
-                if(grantResults.length>0&&grantResults[0]==PackageManager.PERMISSION_GRANTED){
-                    openAlbum();
-                }
-                else{
-                    Toast.makeText(this,"You denide the permission",Toast.LENGTH_LONG).show();
-                }
-                break;
-        }
+        @Override
+        public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+            switch (requestCode){
+                case 1:
+                    if(grantResults.length>0&&grantResults[0]==PackageManager.PERMISSION_GRANTED){
+                        openAlbum();
+                    }
+                    else{
+                        Toast.makeText(this,"You denide the permission",Toast.LENGTH_LONG).show();
+                    }
+                    break;
+            }
     }
 
     private void handleImageBeforKitKat(Intent data) {
